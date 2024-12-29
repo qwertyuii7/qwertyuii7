@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - Backend Development  
 
 ## 📫 Let's Connect 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/mayank-chaudhary)
+- 💼 [LinkedIn] (https://www.linkedin.com/in/Mayank-Chaudhary)
    
 
 Happy Coding! 🚀  
