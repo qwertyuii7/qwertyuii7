@@ -1,22 +1,24 @@
-- # Hi there! 👋 Myself@qwertyuii7
-  
-Welcome to my GitHub profile!  
+# Hi there 👋 I'm Mayank
 
-## 👨‍💻 About Me  
-- **Programming Languages**: Python, C++  
-- **Database Management**: MySQL, DBMS  
+### 💻 About Me
+- 👨‍💻 Developer working with **C++, Python & Web technologies**  
+- 🔍 Focused on **DSA, advanced algorithms & backend development**  
+- 🏦 Currently building a **Banking System in C++ with Qt & SQLite**  
+- 🔁 Writing clean and efficient code, exploring real-world systems  
 
-## 🔧 Tools & Technologies  
-- 🛠️ Git, GitHub  
-- 🖥️ VS Code 
+### ⚡ Tools & Technologies
+- **Languages:** C++, Python, Java, JavaScript  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, GitHub, VS Code, Qt  
 
-## 🌱 Currently Exploring  
-- Advanced Data Structures and Algorithms  
-- Backend Development  
+### 🌱 Currently Exploring
+- Advanced Data Structures & Algorithms  
+- Backend Development (Node.js & System Design)  
 
-## 📫 Let's Connect 
-- 💼 [LinkedIn] MayankChaudhary
-   
+### 📈 GitHub Stats
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwertyuii7&show_icons=true&theme=tokyonight)
 
-Happy Coding! 🚀  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyuii7&layout=compact&theme=tokyonight)
 
+### 🤝 Connect
+[LinkedIn](https://www.linkedin.com/in/mayank-chaudhary-lucknow226031/)
