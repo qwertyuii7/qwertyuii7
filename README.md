@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 - 💻 Passionate about **C++, Python & Web technologies**  
-- 🌱 Currently exploring **Data Structures, Algorithms & Backend Development**  
+- 🌱 Exploring **Data Structures, Algorithms & Backend Development**  
 - 🧠 Building **AI-driven & scalable systems** for real-world impact  
 
 ---
@@ -28,16 +28,18 @@
 
 - 🏦 **BankingSystem** → File-based data storage, deposits/withdrawals, transfers  
 - 🔐 **SecureAuthSystem** → Login & registration with **password hashing**, PIN verification & persistence  
-- 🌾 **AI-Based Crop Recommendation System** → ML model suggests crops based on **soil, rainfall & temperature** data for better yields  
+- 🌾 **AI-Based Crop Recommendation System** → Uses machine learning to suggest the best crops based on **soil nutrients, rainfall, and temperature data** for farmers’ optimal yield
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity  
 <p align="center">
-  <!-- Reliable github-readme-stats image (works if username is correct) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=qwertyuii7&show_icons=true&theme=radical" height="150" alt="GitHub stats for qwertyuii7"/>
-  <!-- Fallback: Top langs (use the same service) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyuii7&layout=compact&theme=radical" height="150" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="150" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" alt="Top Languages"/>
 </p>
 
 ---
