@@ -4,9 +4,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💻 Working with **C++, Python & Web technologies**  
-- 📚 Exploring **DSA & backend development**  
-- 🛠 Writing **scalable & efficient code**  
+- 💻 Passionate about **C++, Python & Web technologies**  
+- 🌱 Currently exploring **Data Structures, Algorithms & Backend Development**  
+- 🧠 Building **AI-driven & scalable systems** for real-world impact  
 
 ---
 
@@ -25,8 +25,10 @@
 ---
 
 ### 📂 Projects  
+
 - 🏦 **BankingSystem** → File-based data storage, deposits/withdrawals, transfers  
 - 🔐 **SecureAuthSystem** → Login & registration with **password hashing**, PIN verification & persistence  
+- 🌾 **AI-Based Crop Recommendation System** → Uses **machine learning** to suggest the best crops based on **soil nutrients, rainfall, and temperature data** for farmers’ optimal yield  
 
 ---
 
