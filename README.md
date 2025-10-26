@@ -5,8 +5,8 @@
 
 ### 🧑‍💻 About Me
 - 💻 Passionate about **C++, Python & Web technologies**  
-- 🌱 Exploring **Data Structures, Algorithms & Backend Development**  
-- 🧠 Building **AI-driven & scalable systems** for real-world impact  
+- 🌱 Currently exploring **Data Structures, Algorithms & Backend Development**  
+- 🤖 Building **AI-driven & scalable systems** that solve real-world problems  
 
 ---
 
@@ -24,22 +24,22 @@
 
 ---
 
-### 📂 Projects  
+### 📂 Featured Projects  
 
 - 🏦 **BankingSystem** → File-based data storage, deposits/withdrawals, transfers  
 - 🔐 **SecureAuthSystem** → Login & registration with **password hashing**, PIN verification & persistence  
-- 🌾 **AI-Based Crop Recommendation System** → Uses machine learning to suggest the best crops based on **soil nutrients, rainfall, and temperature data** for farmers’ optimal yield
+- 🌾 **AI-Based Crop Recommendation System** → Predicts optimal crops using **machine learning** based on **soil nutrients, rainfall, and temperature data** to help farmers maximize yield  
 
 ---
 
 ### 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qwertyuii7&show_icons=true&theme=radical&cache_seconds=1800" height="150" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=qwertyuii7&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyuii7&layout=compact&theme=radical&cache_seconds=1800" height="150" alt="Top Languages"/>
 </p>
 
 ---
