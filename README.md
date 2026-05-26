@@ -17,7 +17,7 @@ Currently exploring:
 ---
 
 ### Tech
-C++ · Python · Java · JavaScript  
+C++ · Python · MERN Typescipt 
 Qt · SQLite · MySQL · Git  
 
 ---
