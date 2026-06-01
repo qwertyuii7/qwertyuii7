@@ -103,24 +103,6 @@ A platform that lets you control and manage your entire home through simple comm
 
 ---
 
-### 04 — [Project SETU](https://github.com/qwertyuii7/Project-SETU)
-> *Smart Escalation & Tracking Utility*
-
-A full-stack grievance tracking platform built for tribal welfare residential schools (TGTWREIS Gurukulams, Telangana). Replaces slow paper-based reporting with a transparent, real-time, AI-assisted issue resolution system.
-
-- 🔹 AI keyword algorithm auto-classifies urgency of reported issues
-- 🔹 Priority scores escalate automatically if no action is taken
-- 🔹 Immutable audit logs — nothing can be silently deleted
-- 🔹 Role-based dashboards for school staff, district & state officials
-
-`TypeScript` `Next.js` `Node.js` `PostgreSQL` `Docker`
-
-**Built for FOSS Hack 2026** 🏆
-
-<br/>
-
----
-
 ### 05 — [Banking System](https://github.com/qwertyuii7/Banking-System_in_cpp)
 > *Terminal-Based Core Banking Engine*
 
