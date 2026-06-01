@@ -56,7 +56,54 @@ exploring: Data Structures & Algorithms
 
 <br/>
 
-### 01 — [Project SETU](https://github.com/qwertyuii7/Project-SETU)
+### 01 — [MEDIGUARD](https://github.com/qwertyuii7/MEDIGUARD_FINAL)
+> *Fake Medicine Detection & Healthcare Safety Platform*
+
+A platform to fight counterfeit medicine. Identify fake drugs, report them to authorities, and locate verified nearby chemists — all in one place.
+
+- 🔹 Fake medicine identification engine
+- 🔹 Report & escalation system for counterfeit drugs
+- 🔹 Nearby chemist locator with maps integration
+- 🔹 Public health-focused real-world utility
+
+`JavaScript` `Web` `Maps API` `Healthcare`
+
+<br/>
+
+---
+
+### 02 — [Developer League](https://github.com/qwertyuii7/Developer-league)
+> *Global Developer Ranking Platform* ⭐
+
+A competitive ranking platform that scores developers globally based on their hustle across coding platforms — LeetCode, CodeChef, HackerRank, GitHub, and more.
+
+- 🔹 Cross-platform performance aggregation
+- 🔹 Global leaderboard with real-time ranking
+- 🔹 Multi-platform: LeetCode · CodeChef · HackerRank · GitHub
+- 🔹 Hustle score algorithm across diverse metrics
+
+`TypeScript` `Web` `APIs` `Leaderboard`
+
+<br/>
+
+---
+
+### 03 — [Smart Home Automation](https://github.com/qwertyuii7/Smarthome_automation)
+> *Voice & Command-Driven Home Management*
+
+A platform that lets you control and manage your entire home through simple commands — lights, appliances, routines, all automated.
+
+- 🔹 Command-based device control interface
+- 🔹 Home state management dashboard
+- 🔹 Automation rules & scheduling
+
+`HTML` `CSS` `JavaScript` `IoT` `Automation`
+
+<br/>
+
+---
+
+### 04 — [Project SETU](https://github.com/qwertyuii7/Project-SETU)
 > *Smart Escalation & Tracking Utility*
 
 A full-stack grievance tracking platform built for tribal welfare residential schools (TGTWREIS Gurukulams, Telangana). Replaces slow paper-based reporting with a transparent, real-time, AI-assisted issue resolution system.
@@ -65,9 +112,8 @@ A full-stack grievance tracking platform built for tribal welfare residential sc
 - 🔹 Priority scores escalate automatically if no action is taken
 - 🔹 Immutable audit logs — nothing can be silently deleted
 - 🔹 Role-based dashboards for school staff, district & state officials
-- 🔹 Built on real stakeholder field research
 
-`TypeScript` `Next.js` `Node.js / Express` `PostgreSQL` `Docker`
+`TypeScript` `Next.js` `Node.js` `PostgreSQL` `Docker`
 
 **Built for FOSS Hack 2026** 🏆
 
@@ -75,7 +121,22 @@ A full-stack grievance tracking platform built for tribal welfare residential sc
 
 ---
 
-### 02 — [Secure Auth System](https://github.com/qwertyuii7/Login-and-Registration-System)
+### 05 — [Banking System](https://github.com/qwertyuii7/Banking-System_in_cpp)
+> *Terminal-Based Core Banking Engine*
+
+A fully functional banking system built from scratch in C++. No external libraries — pure logic, data integrity, and clean architecture.
+
+- 🔹 Deposits, withdrawals & fund transfers
+- 🔹 Balance integrity enforcement
+- 🔹 File-based persistent storage
+
+`C++` `File I/O` `System Design` `Data Integrity`
+
+<br/>
+
+---
+
+### 06 — [Secure Auth System](https://github.com/qwertyuii7/Login-and-Registration-System)
 > *Terminal-Based Authentication Engine*
 
 A robust login and registration system written in pure C++. Focused on security fundamentals — no frameworks, no shortcuts.
@@ -85,32 +146,6 @@ A robust login and registration system written in pure C++. Focused on security 
 - 🔹 Clean modular architecture
 
 `C++` `File I/O` `Authentication` `Security`
-
-<br/>
-
----
-
-### 03 — [Crop Recommendation System](https://github.com/qwertyuii7/project_0)
-> *API-Driven Agricultural Intelligence*
-
-A data-driven crop advisor that processes soil nutrients, rainfall, and temperature inputs to recommend optimal crops for a given region.
-
-- 🔹 REST API integration for live environmental data
-- 🔹 Modular input pipeline (soil NPK, humidity, temperature)
-- 🔹 Practical ML application for agriculture
-
-`Python` `REST API` `Data Science` `Machine Learning`
-
-<br/>
-
----
-
-### 04 — [Ultra Edit Webpage](https://github.com/qwertyuii7/Ultra_edit_webpage)
-> *Frontend Interface Project*
-
-A web interface project exploring frontend fundamentals and layout design.
-
-`HTML` `CSS` `JavaScript`
 
 <br/>
 
